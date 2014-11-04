@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>04D31A17-6652-40F6-B9CF-538B824676A4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BouncingBall</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7CE867302FE12578F8476C1F992DD2BCD76942EC</key>
+		<string>https://github.com/haotian91/CC-Lab-OF.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Homework1/BouncingBall/BouncingBall.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7CE867302FE12578F8476C1F992DD2BCD76942EC</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/haotian91/CC-Lab-OF.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7CE867302FE12578F8476C1F992DD2BCD76942EC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7CE867302FE12578F8476C1F992DD2BCD76942EC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CC-Lab-OF</string>
+		</dict>
+	</array>
+</dict>
+</plist>
